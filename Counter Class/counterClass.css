@@ -1,0 +1,18 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+
+  button {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+  }
+
+  #counterValue {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
